@@ -6,3 +6,4 @@ function search(arr, val) {
     //complete function here
   }
 }
+"done message"
